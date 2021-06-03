@@ -1,4 +1,4 @@
-This is a work-in-progress website. 
+This is a work-in-progress website, hosted with GitHub Pages.
 
 
 Credits:
